@@ -1,0 +1,21 @@
+
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxX-XXXX-XXXX-XXXXXXXXXXXX | vendor | pwa | pwd-verify] c.w.o.rest.resources. OTPResource.validCredentials >>>API Key Client:
+c.w.o.rest.resources. OTPResource.validCredentials
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-XXXX-XXXX-XXXX-XXXXXXXXXXXX | vendor | pwa | pwd-verify] >>>API Key System : 2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify|xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxz|vendor | pwa | pwd-verify] com.wibmo.cache.RedisCacheSA.get
+RedisCacheSA - get
+2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify|xxxxxxxx-XXXX-XXXX-XXXX-XXXXXXXXXXXw vendor | pwa|pwd-verify] com.wibmo.cache.RedisCacheSA.get 
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify|xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx | vendor | pwa | pwd-verify] c.w.o.rest.resources.OTPResource.validCredentials >>>API Key Client:
+2025-04-21 15:21:06,544 [dw-2540 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxx-xxXXX-XXXX-XXXXXXXXXXXw vendor | test | pwd-verify] C.W.o.service.PwdService.verifyPwd InstanceId: 8888; apiUser: test_user ; TxnID: xxxxxXXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX_xxx_N2; FromRequestTxnID: null; OrnReferenceNumber: 1111111111111111; 
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-XXXX-XXXX-XXXX-xxxxxxxxxxxy vendor | pwa | pwd-verify] c.w.o.rest.resources. OTPResource.validCredentials >>>API Key System: 
+2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxz|vendor | pwa | pwd-verify] com.wibmo.cache.RedisCacheSA.get get 
+2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxx-XXXX-XXXX-XXXXXXXXXXXw | vendor | pwa | pwd-verify] com.wibmo.cache.RedisCacheSA.get response from cache: 
+2025-04-21 15:21:06,544 [dw-2540 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-XXXX-XXXX-XXXX-XXXXXXXXXXXw vendor | test | pwd-verify] c.w.o.service.PwdService.verifyPwd InstanceId: 8888; apiUser: test_user ;TxnID: 232323; FromRequestTxnID: null; OrnReferenceNumber: 1111111111111112; 
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxx-xxxx-xxxx-XXXXXXXXXXXX | vendor | pwa | pwd-verify] DEBUG c.w.o.rest.resources. OTPResource.validCredentials >>>API Key Client:
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otp service/vendor/pwd/verify|xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxy | vendor | pwa | pwd-verify] DEBUG c.w.o.rest.resources. OTPResource.validCredentials >>>API Key System :
+2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify|xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxz|vendor | pwa | pwd-verify] com.wibmo.cache.RedisCacheSA.getRedisCacheSA - get
+2025-04-23 17:51:40, 241 [dw-18488 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxX-XXXX-XXXX-XXXX-XXXXXXXXXXXw | vendor | pwa | pwd-verify] com.wibmo.cache.RedisCacheSA.get response from cache: 
+2025-04-21 15:21:06,544 [dw-2540 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-XXXX-XXXX-XXXX-XXXXXXXXXXXW | vendor | test | pwd-verify] c.w.o.service.PwdService.verifyPwd InstanceId: 8888; apiUser: test_user ;TxnID: 12345; FromRequestTxnID: null; OrnReferenceNumber: 1111111111111113; 
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxx-xxxX-XXXX-XXXXXXXXXxxx | vendor | pwa | pwd-verify] >>>API Key Client: 
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/vendor/pwd/verify | xxxxxxxx-xxxX-XXXX-XXXX-XXXxxxxxxxxy vendor | pwa | pwd-verify] >>>API Kev System :
+2025-04-23 17:37:52,427 [dw-18608 - POST /v1/otpservice/hdfc_adobe/pwd/verify|12345| test | test| pwd-verify, INFO c.w.o.service.PwdService.verifyPwd StatusCode:00
+2025-04-23 15:21:07,427 [dw-18608 - POST /v1/otpservice/hdfc_adobe/pwd/verify|232323| test | test| pwd-verify, INFO c.w.o.service.PwdService.verifyPwd StatusCode:02
