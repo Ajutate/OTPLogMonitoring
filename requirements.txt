@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+chroma
+loguru
+requests
+re
+langchain
+langchain-community
+```
