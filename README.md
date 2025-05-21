@@ -1,4 +1,4 @@
-# Agentic RAG Log Monitor
+# RAG Log Monitor
 
 ## Overview
 The Agentic RAG Log Monitor is a chat-based application designed to monitor logs related to the OTP (One-Time Password) journey for specific ORN (Order Reference Number) entries. The application parses log files from various sources, stores relevant information in a vector database, and allows users to query the OTP journey through an interactive chat interface.
